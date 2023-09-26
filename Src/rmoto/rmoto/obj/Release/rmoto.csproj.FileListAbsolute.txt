@@ -1,0 +1,8 @@
+C:\Users\micha\Documents\tool\rmoto\rmoto\bin\Release\rmoto.exe.config
+C:\Users\micha\Documents\tool\rmoto\rmoto\bin\Release\rmoto.exe
+C:\Users\micha\Documents\tool\rmoto\rmoto\bin\Release\rmoto.pdb
+C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.exe
+C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.pdb

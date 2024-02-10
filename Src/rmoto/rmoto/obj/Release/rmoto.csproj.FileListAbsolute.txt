@@ -6,3 +6,15 @@ C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.csproj.SuggestedBind
 C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.exe
 C:\Users\micha\Documents\tool\rmoto\rmoto\obj\Release\rmoto.pdb
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\bin\Release\rmoto.exe.config
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\bin\Release\rmoto.exe
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\bin\Release\rmoto.pdb
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\bin\Release\Keyboardinputs.dll
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\bin\Release\SharpDX.DirectInput.dll
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\bin\Release\SharpDX.dll
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\bin\Release\Keyboardinputs.pdb
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\obj\Release\rmoto.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\obj\Release\rmoto.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\obj\Release\rmoto.csproj.CopyComplete
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\obj\Release\rmoto.exe
+C:\Users\micha\Documents\github\rmoto\Src\rmoto\rmoto\obj\Release\rmoto.pdb
